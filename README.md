@@ -1,5 +1,5 @@
 # Project
-Data Science algorithms. 
+Data Science Assignments. 
 Note: 
 1. Code written above is latest by Jan, 2024.
 2. Use virtual environment for Data Science Assignments
